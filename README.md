@@ -17,4 +17,4 @@ Windows for free. Say goodbye to that "Activate Windows" watermark.
 [https://tiktok.com/@spikegr_yt](https://tiktok.com/@spikegr_yt)
 
  - Website:
-[https://spikegr.cf](https://spikegr.com/)
+[https://spikegr.com](https://spikegr.com/)
