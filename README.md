@@ -1,20 +1,31 @@
-# Windows Free Activator V5.0
+# Windows Free Activator V5.1
 
-## Do you want to activate Windows 10 or 11 without paying a cent?
+### About Windows Free Activator
+Windows Free Activator is a powerful, open-source and easy-to-use
+script designed to activate Windows 10 and 11 for free by connecting
+to a KMS (Key Management Service) server.
 
-Then this program was made for you! Use this program to activate
-Windows for free. Say goodbye to that "Activate Windows" watermark.
+KMS servers emulate Microsoft's activation process, granting temporary
+activation for Windows without requiring a product key. The script connects
+to a KMS server, sends activation requests using a Generic Volume License
+Key (GVLK), and receives a response that grants activation, typically for 180 days.
 
-## Our Social Media
+### Disclaimer
+This script is provided "as is," without any warranty of any kind,
+either expressed or implied. Use it at your own risk. The developer
+is not responsible for anything arising from its use.
 
- - YouTube:
-[https://youtube.com/spikegreece](https://youtube.com/spikegreece)
+###  What's new in version 5.1
 
- - Instagram:
-[https://instagram.com/spikegr_official](https://instagram.com/spikegr_official)
+**General Improvements**
 
- - TikTok:
-[https://tiktok.com/@spikegr_yt](https://tiktok.com/@spikegr_yt)
+ - Fine-tuned various aspects of the application for enhanced performance and reliability.
 
- - Website:
-[https://spikegr.com](https://spikegr.com/)
+**Updater Enhancements**
+- Introduced several updates to the updater for smoother and more efficient operations.
+
+**Documentation Updates**
+- Improved the Readme file to provide clearer and more detailed instructions.
+
+**File Management**
+- Optimized folder structure for better organization and easier navigation.
